@@ -34,7 +34,7 @@ Hi, I'm [Guojin Chen](http://dekura.github.io/), I am an 🚀 MSc student at The
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a research assistant in CUHK :wink:;
+- 👨🏽‍💻 I’m currently a research assistant in CUHK;
 <!-- - 🌱 I’m currently learning GraphQL and C++; -->
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dekura](http://dekura.github.io/);
