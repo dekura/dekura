@@ -28,7 +28,7 @@
 
 <br />
 
-Hi, I'm [Guojin Chen](http://dekura.github.io/), I am a first-year PhD 🚀  at The Chinese University of Hong Kong (CUHK-CSE) and my research interests include <b>deep learning in VLSI</b>, <b>reinforcement learning</b> and <b>computer vision</b>. I am advised by 👨🏽‍💼Prof. [@Bei Yu](http://www.cse.cuhk.edu.hk/~byu/). I received my Bachelor Degree of Computer Science from Huazhong University of Science and Technology.
+Hi, I'm [Guojin Chen](http://dekura.github.io/), I am a Ph.D. student 🚀  at The Chinese University of Hong Kong (CUHK-CSE) and my research interests include <b>deep learning in VLSI</b>, <b>reinforcement learning</b> and <b>computer vision</b>. I am advised by 👨🏽‍💼Prof. [@Bei Yu](http://www.cse.cuhk.edu.hk/~byu/). I received my Bachelor Degree of Computer Science from Huazhong University of Science and Technology.
 
   <img align="right" alt="GIF" src="https://github.com/dekura/dekura/blob/master/code.gif?raw=true" width="300" height="192" />
   
