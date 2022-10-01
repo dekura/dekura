@@ -28,14 +28,13 @@
 
 <br />
 
-Hi, I'm [Guojin Chen](http://dekura.github.io/), I am a Ph.D. student 🚀  at The Chinese University of Hong Kong (CUHK-CSE) and my research interests include <b>deep learning in VLSI</b>, <b>reinforcement learning</b> and <b>computer vision</b>. I am advised by 👨🏽‍💼Prof. [@Bei Yu](http://www.cse.cuhk.edu.hk/~byu/). I received my Bachelor Degree of Computer Science from Huazhong University of Science and Technology.
+Hi, I'm [Guojin Chen](http://gjchen.me/), a Ph.D. student 🚀  at The Chinese University of Hong Kong (CUHK-CSE) and my research interests include <b>deep learning in VLSI</b>, <b>design for manufacturing</b>. I am advised by 👨🏽‍💼Prof. [@Bei Yu](http://www.cse.cuhk.edu.hk/~byu/). I received my Bachelor Degree of Computer Science from Huazhong University of Science and Technology.
 
   <img align="right" alt="GIF" src="https://github.com/dekura/dekura/blob/master/code.gif?raw=true" width="300" height="192" />
   
 **Talking about Personal Stuffs:**
 
 - 💻 I’m currently a PhD in CUHK
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@dekura](http://dekura.github.io/) 📝 [Resume](https://dekura.github.io/data/cv.pdf)
+- 📫 How to reach me: [gjchen.me](https://gjchen.me/) 📝 [Resume](https://gjchen.me/data/cv.pdf)
 
 [![Dekura's github stats](https://github-readme-stats.vercel.app/api?username=dekura&count_private=true&show_icons=true&theme=radical)](https://github.com/dekura/github-readme-stats)
