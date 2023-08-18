@@ -42,4 +42,3 @@
 - 💻 I’m currently a PhD in CUHK
 - 📫 How to reach me: [gjchen.me](https://gjchen.me/) 📝 [Resume](https://gjchen.me/data/cv.pdf)
 
-[![Dekura's github stats](https://github-readme-stats.vercel.app/api?username=dekura&count_private=true&show_icons=true&theme=radical)](https://github.com/dekura/github-readme-stats)
