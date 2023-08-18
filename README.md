@@ -11,9 +11,9 @@
 <!-- <a href="https://t.me/abhisheknaiidu">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a> -->
-<a href="https://www.instagram.com/dekura_chan/">
+<!-- <a href="https://www.instagram.com/dekura_chan/">
   <img align="left" alt="Guojin Chen's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> -->
 <!-- <a href="https://www.reddit.com/user/geekyabhi/">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a> -->
