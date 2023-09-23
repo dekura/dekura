@@ -39,6 +39,6 @@
   
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently a PhD in CUHK
+- 💻 I’m currently a visiting PhD in UT Austin, and a Ph.D. Candidate in CUHK.
 - 📫 How to reach me: [gjchen.me](https://gjchen.me/) 📝 [Resume](https://gjchen.me/data/cv.pdf)
 
