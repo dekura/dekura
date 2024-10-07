@@ -28,9 +28,7 @@
 
 <br />
 
-  I am [Guojin Chen](http://gjchen.me/), currently a Ph.D. student 🚀 at The Chinese University of Hong Kong (<b>CUHK-CSE</b>) under the guidance of Professor [Bei Yu](http://www.cse.cuhk.edu.hk/~byu/). My current research is focused on computational lithography and mask optimization. Additionally, my research interests include (1) <b>machine learning in VLSI design for manufacturability</b> and (2) <b>physics-informed networks for solving EDA area problems</b>. I am seeking academic visit or research intern opportunities.
-
-  I'm also maintaining a curated list of AI for EDA papers. Check it out here: [Awesome AI for EDA](https://ai4eda.github.io). The list is under construction and you are welcomed to submit your publications follow [the instructions](https://ai4eda.github.io/about/).
+  I am [Guojin Chen](http://gjchen.me/), currently a Ph.D. student 🚀 at The Chinese University of Hong Kong (<b>CUHK-CSE</b>) under the guidance of Professor [Bei Yu](http://www.cse.cuhk.edu.hk/~byu/). 
 
 
 
