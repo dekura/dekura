@@ -28,15 +28,10 @@
 
 <br />
 
-  I am [Guojin Chen](http://gjchen.me/), currently a Ph.D. student 🚀 at The Chinese University of Hong Kong (<b>CUHK-CSE</b>) under the guidance of Professor [Bei Yu](http://www.cse.cuhk.edu.hk/~byu/). 
+  I am [Guojin Chen](http://gjchen.me/), currently a Researcher at Huawei Noah’s Ark Lab (Hong Kong Research Center). 
 
 
 
 
   <img align="right" alt="GIF" src="https://github.com/dekura/dekura/blob/master/code.gif?raw=true" width="300" height="192" />
   
-**Talking about Personal Stuffs:**
-
-- 💻 I’m currently a visiting PhD in UT Austin, and a Ph.D. Candidate in CUHK.
-- 📫 How to reach me: [gjchen.me](https://gjchen.me/) 📝 [Resume](https://gjchen.me/data/cv.pdf)
-
